@@ -1,0 +1,81 @@
+{
+    "application": {
+      "program": "Energy Assistance Program",
+      "submission_methods": {
+        "mail_or_fax": {
+          "las_vegas_north": {
+            "address": "3330 E. Flamingo Rd., #55, Las Vegas, NV 89121",
+            "telephone": "(702) 486-1404",
+            "fax": "(702) 486-1441"
+          },
+          "all_other_areas": {
+            "address": "2527 N. Carson Street, Suite 260, Carson City, NV 89706",
+            "telephone": "(775) 684-0730",
+            "fax": "(775) 684-0740"
+          }
+        },
+        "email": "ENERGYASSISTANCE@DWSS.NV.GOV"
+      }
+    },
+    "applicant_household_information": {
+      "members": [
+        {
+          "name": "Doe John",
+          "relationship": "SELF",
+          "sex": "M",
+          "date_of_birth": "01/12/78",
+          "age": 44,
+          "us_citizen": false,
+          "disabled": false,
+          "social_security_number": "111-22-2333"
+        },
+        {
+          "name": "Doe Jane",
+          "relationship": "Spouse",
+          "sex": "F",
+          "date_of_birth": "08/02/84",
+          "age": 38,
+          "us_citizen": false,
+          "disabled": false,
+          "social_security_number": "444-55-5666"
+        }
+      ],
+      "additional_people": false,
+      "home_address": {
+        "street": "123 Sample Street",
+        "city": "Sample Town",
+        "state": "MN",
+        "zip": "12345"
+      },
+      "mailing_address": {},
+      "contact": {
+        "home_phone": "(414) 2285",
+        "cell_phone": "(122) 3453",
+        "email": "johndoe@gmail.com"
+      },
+      "non_citizen_legal_residents": [
+        "Jane Doe"
+      ],
+      "resident_alien_card_required": true
+    },
+    "dwelling_information": {
+      "dwelling_type": "House",
+      "dwelling_cost": {
+        "rent": 2000,
+        "subsidized_rent": null,
+        "space_rent": null,
+        "buy_price": null,
+        "own": false
+      },
+      "landlord_information": {
+        "name": "Big Corp Landlord",
+        "address": "456 Landlord Town",
+        "telephone": "(314) 8888"
+      },
+      "subsidized_housing": false,
+      "subsidized_housing_types": []
+    },
+    "help_us_better_serve_others": {
+      "heard_about_program": []
+    }
+  }

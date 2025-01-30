@@ -1,0 +1,55 @@
+{
+    "household": [
+      {
+        "name": "Doe John",
+        "relationship": "SELF",
+        "sex": "M",
+        "dob": "01/12/78",
+        "age": "44",
+        "usCitizen": true,
+        "disabled": false,
+        "ssn": "111-22-2333"
+      },
+      {
+        "name": "Doe Jane",
+        "relationship": "Spouse",
+        "sex": "F",
+        "dob": "08/02/84",
+        "age": "38",
+        "usCitizen": false,
+        "disabled": false,
+        "ssn": "444-55-6666"
+      }
+    ],
+    "additionalPeople": false,
+    "address": {
+      "home": "123 Sample Street",
+      "city": "Sample Town",
+      "state": "MN",
+      "zip": "12345"
+    },
+    "contact": {
+      "homePhone": "414-2285",
+      "cellPhone": "122-3453",
+      "email": "johndoe@gmail.com"
+    },
+    "dwelling": {
+      "type": "Condo/Townhome",
+      "cost": {
+        "rent": 2000,
+        "subsidized": false,
+        "spaceRent": false,
+        "buy": false,
+        "own": false
+      },
+      "landlord": {
+        "name": "Big Corp Landlord",
+        "address": "456 Landlord Town",
+        "phone": "314-8888"
+      },
+      "subsidizedHousing": false,
+      "section8": false,
+      "section42": false
+    },
+    "heardFrom": "Utility Company (flyer or employee)"
+  }

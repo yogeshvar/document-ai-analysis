@@ -1,0 +1,50 @@
+{
+    "applicant": {
+        "age": 44,
+        "dateOfBirth": "1978-01-12",
+        "disabled": true,
+        "gender": "M",
+        "name": {
+            "first": "John",
+            "last": "Doe"
+        },
+        "relationship": "SELF",
+        "socialSecurityNumber": "111-22-2333",
+        "usCitizen": true
+    },
+    "contactInfo": {
+        "cellPhone": "(122) 345-3",
+        "email": "johndoe@gmail.com",
+        "homePhone": "(414) 228-5"
+    },
+    "dwelling": {
+        "costRent": 2000,
+        "landlord": {
+            "address": "456 Landlord Town",
+            "name": "Big Corp Landlord",
+            "telephone": "(314) 8888"
+        },
+        "subsidizedHousing": false,
+        "type": "Condo/Townhome"
+    },
+    "homeAddress": {
+        "city": "Sample Town",
+        "state": "MN",
+        "street": "123 Sample Street",
+        "zip": "12345"
+    },
+    "referralSource": "Utility Company",
+    "spouse": {
+        "age": 38,
+        "dateOfBirth": "1984-08-02",
+        "disabled": true,
+        "gender": "F",
+        "name": {
+            "first": "Jane",
+            "last": "Doe"
+        },
+        "relationship": "Spouse",
+        "socialSecurityNumber": "444-55-5666",
+        "usCitizen": false
+    }
+}

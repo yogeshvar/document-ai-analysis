@@ -1,0 +1,81 @@
+{
+    "program": "Energy Assistance Program",
+    "division": "Division of Welfare and Supportive Services",
+    "contact": {
+      "email": "ENERGYASSISTANCE@DWSS.NV.GOV",
+      "offices": [
+        {
+          "location": "Las Vegas / North Las Vegas",
+          "address": "3330 E. Flamingo Rd., #55, Las Vegas, NV 89121",
+          "telephone": "(702) 486-1404",
+          "fax": "(702) 486-1441"
+        },
+        {
+          "location": "All Other Areas",
+          "address": "2527 N. Carson Street, Suite 260, Carson City, NV 89706",
+          "telephone": "(775) 684-0730",
+          "fax": "(775) 684-0740"
+        }
+      ]
+    },
+    "application": {
+      "instructions": "Complete every section and answer each question. Sign the application and the Rights and Obligations form. Failure to do so may delay processing or result in denial.",
+      "applicant_household_information": {
+        "members": [
+          {
+            "name": "Doe John",
+            "relationship": "SELF",
+            "date_of_birth": "01/12/78",
+            "age": 44,
+            "us_citizen_or_eligible_non_citizen": "Yes",
+            "disabled": "Yes",
+            "social_security_number": "111-22-2333"
+          },
+          {
+            "name": "Doe Jane",
+            "relationship": "Spouse",
+            "date_of_birth": "08/02/84",
+            "age": 38,
+            "us_citizen_or_eligible_non_citizen": "Yes",
+            "disabled": "Yes",
+            "social_security_number": "444-55-5666"
+          }
+        ],
+        "additional_people_in_home": "No",
+        "home_address": "123 Sample Street",
+        "mailing_address": {
+          "city": "Sample Town",
+          "state": "MN",
+          "zip": "12345"
+        },
+        "phone_numbers": {
+          "home": "( ) 414-2285",
+          "day_message_cell": "( ) 122-3453"
+        },
+        "email": "johndoe@gmail.com",
+        "non_citizen_household_members": [
+          {
+            "name": "Jane Doe",
+            "documentation_required": "Copies of the front and back of their I-551 (Resident Alien Card)"
+          }
+        ]
+      },
+      "dwelling_information": {
+        "dwelling_type": "House",
+        "dwelling_cost": {
+          "rent": "$2000",
+          "subsidized_rent": "",
+          "space_rent": "",
+          "buy": "",
+          "own": ""
+        },
+        "landlord_mortgage_company": {
+          "name": "Big Corp Landlord",
+          "address": "456 Landlord Town",
+          "telephone": "( ) 314-8888"
+        },
+        "subsidized_housing": "No"
+      },
+      "how_heard_about_program": "Previous EAP Participant"
+    }
+  }
